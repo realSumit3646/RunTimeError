@@ -1,0 +1,1 @@
+caler_input_7 = pickle.load(model_file)  # Ensure this line matches how scalers are saved
